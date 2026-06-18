@@ -3,7 +3,7 @@ Zero Sum is an Rojo alternative that addresses lot of the problems and overhead 
 
 <p align="center"> <img width="700" height="447" alt="Image" src="https://github.com/user-attachments/assets/433dcde1-5f30-40a1-88f3-67368e3eb9ea" /> </p>
 
-## why "Zero Sum"?
+## Why "Zero Sum"?
 * **No terminal setups**: Open launcher and sync and manage your projects
 * **True two-way sync**: self explanatory, edit scripts and properties without script conflicts.
 * **Selective sync**: Choose what descendants to sync on notice, no more nuking your entire local workspace for pulling a repo
@@ -11,7 +11,7 @@ Zero Sum is an Rojo alternative that addresses lot of the problems and overhead 
 * **Proper MeshPart support**: Reliable implementation of MeshPart serialization to be used for ingame assets and maps.
 * **Duplicate Instances**: Reads the Unique ID of instances to keep track of duplicated instances instead of relying on the name.
 
-## compatibility:
+## Compatibility:
 * **Native luau-lsp support**: Creates and keeps track of the sourcemap.json for you without needing to rely on LSP Studio-side plugin.
 * **Native Script Sync support**: Coexists alongside Roblox's Script Sync feature without fighting for authority.
 * Best accompanied with **"Verde" by Dvitash** which recreates the Explorer/Properties tab from Roblox Studio and brings it to VSCode.
