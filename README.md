@@ -15,5 +15,5 @@ Zero Sum is an Rojo alternative that addresses lot of the problems and overhead 
 * Best accompanied with **"Verde" by Dvitash** which recreates the Explorer/Properties tab from Roblox Studio and brings it to VSCode.
 
 
-<video src="https://i.imgur.com/fWPxlMO.mp4" controls width="500"></video>
+<video src="https://github.com/user-attachments/assets/a9e519ea-66ac-40ac-8992-8d43a32a7566" controls width="500"></video>
 
