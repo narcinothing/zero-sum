@@ -14,5 +14,6 @@ Zero Sum is an Rojo alternative that addresses lot of the problems and overhead 
 * **Native Script Sync support**: Coexists alongside Roblox's Script Sync feature without fighting for authority.
 * Best accompanied with **"Verde" by Dvitash** which recreates the Explorer/Properties tab from Roblox Studio and brings it to VSCode.
 
-<video src="https://i.imgur.com/fWPxlMO.mp" width="300" />
+
+<video src="https://i.imgur.com/fWPxlMO.mp4" controls width="500"></video>
 
