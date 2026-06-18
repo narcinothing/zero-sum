@@ -1,6 +1,8 @@
 # Zero Sum
 Zero Sum is an Rojo alternative that addresses lot of the problems and overhead with using an VSCode-to-Studio tool while allowing full control of the synchronization process. It's designed to be safe by default without aggressively deleting/overwriting files.
 
+<video src="https://github.com/user-attachments/assets/a9e519ea-66ac-40ac-8992-8d43a32a7566" autoplay loop muted playsinline width="500"></video>
+
 ## why "Zero Sum"?
 * **No terminal setups**: Open launcher and sync and manage your projects
 * **True two-way sync**: self explanatory, edit scripts and properties without script conflicts.
@@ -13,7 +15,3 @@ Zero Sum is an Rojo alternative that addresses lot of the problems and overhead 
 * **Native luau-lsp support**: Creates and keeps track of the sourcemap.json for you without needing to rely on LSP Studio-side plugin.
 * **Native Script Sync support**: Coexists alongside Roblox's Script Sync feature without fighting for authority.
 * Best accompanied with **"Verde" by Dvitash** which recreates the Explorer/Properties tab from Roblox Studio and brings it to VSCode.
-
-
-<video src="https://github.com/user-attachments/assets/a9e519ea-66ac-40ac-8992-8d43a32a7566" controls width="500"></video>
-
