@@ -1,7 +1,7 @@
-# zero sum
-zero sum is an Rojo alternative that addresses lot of the problems and overhead with using an VSCode-to-Studio tool while allowing full control of the synchronization process. It's designed to be safe by default without aggressively deleting/overwriting files.
+# Zero Sum
+Zero Sum is an Rojo alternative that addresses lot of the problems and overhead with using an VSCode-to-Studio tool while allowing full control of the synchronization process. It's designed to be safe by default without aggressively deleting/overwriting files.
 
-## why "zero sum"?
+## why "Zero Sum"?
 * **No terminal setups**: Open launcher and sync and manage your projects
 * **True two-way sync**: self explanatory, edit scripts and properties without script conflicts.
 * **Selective sync**: Choose what descendants to sync on notice, no more nuking your entire local workspace for pulling a repo
@@ -15,5 +15,5 @@ zero sum is an Rojo alternative that addresses lot of the problems and overhead 
 * Best accompanied with **"Verde" by Dvitash** which recreates the Explorer/Properties tab from Roblox Studio and brings it to VSCode.
 
 <p align="center" width="100%">
-  <video src="https://github.com/narcinothing/zero-sum/blob/main/repo-assets/zero%20sum.mp4?raw=true" width="80%" controls></video>
+  <video src="https://i.imgur.com/fWPxlMO.mp4" width="80%" controls></video>
 </p>
