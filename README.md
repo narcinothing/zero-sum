@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="#">
-    <img width="501" height="116" alt="Image" src="https://github.com/user-attachments/assets/0e7a443c-676a-4f4c-8ca7-ee9c6a2a6fd9" />
-  </a>
+  <img width="501" alt="Image" src="https://github.com/user-attachments/assets/0e7a443c-676a-4f4c-8ca7-ee9c6a2a6fd9" />
 </p>
 <p align="center"> <img width="640" height="358" alt="Image" src="https://github.com/user-attachments/assets/433dcde1-5f30-40a1-88f3-67368e3eb9ea" /> </p>
 
