@@ -1,15 +1,19 @@
-# Zero Sum
-Zero Sum is an Rojo alternative that addresses lot of the problems and overhead with using an VSCode-to-Studio tool while allowing full control of the synchronization process. It's designed to be safe by default without aggressively deleting/overwriting files.
+# zero sum
+zero sum is an Rojo alternative that addresses lot of the problems and overhead with using an VSCode-to-Studio tool while allowing full control of the synchronization process. It's designed to be safe by default without aggressively deleting/overwriting files.
 
-## Why Zero Sum?
-- **No terminal setups**. Open launcher and sync and manage your projects
-- **True two-way sync**. self explanatory, edit scripts and properties without script conflicts.
-- **Selective sync**. Choose what descendants to sync on notice, no more nuking your entire local workspace for pulling a repo
-- **Duplicate Handling**. Uses the internal IDs of instances instead of names to manage sourcemaps.
-- **Proper MeshPart support**. Reliable implementation of MeshPart serialization to be used for ingame assets and maps.
-- **Duplicate Instances**. Reads the Unique ID of instances to keep track of duplicated instances instead of relying on the name.
+## why "zero sum"?
+* **No terminal setups**: Open launcher and sync and manage your projects
+* **True two-way sync**: self explanatory, edit scripts and properties without script conflicts.
+* **Selective sync**: Choose what descendants to sync on notice, no more nuking your entire local workspace for pulling a repo
+* **Duplicate Handling**: Uses the internal IDs of instances instead of names to manage sourcemaps.
+* **Proper MeshPart support**: Reliable implementation of MeshPart serialization to be used for ingame assets and maps.
+* **Duplicate Instances**: Reads the Unique ID of instances to keep track of duplicated instances instead of relying on the name.
 
-## Compatibility:
-- **Native luau-lsp support**. Creates and keeps track of the sourcemap.json for you without needing to rely on LSP Studio-side plugin.
-- **Native Script Sync support**. Coexists alongside Roblox's Script Sync feature without fighting for authority.
-- Best accompanied with **"Verde" by Dvitash** which recreates the Explorer/Properties tab from Roblox Studio and brings it to VSCode.
+## compatibility:
+* **Native luau-lsp support**: Creates and keeps track of the sourcemap.json for you without needing to rely on LSP Studio-side plugin.
+* **Native Script Sync support**: Coexists alongside Roblox's Script Sync feature without fighting for authority.
+* Best accompanied with **"Verde" by Dvitash** which recreates the Explorer/Properties tab from Roblox Studio and brings it to VSCode.
+
+<p align="center" width="100%">
+  <video src="https://raw.githubusercontent.com/narcinothing/zero-sum/main/repo-assets/zero%20sum.mp4" width="80%" controls></video>
+</p>
