@@ -7,7 +7,7 @@
 
 Zero Sum is an Rojo alternative that addresses lot of the problems and overhead with using an VSCode-to-Studio tool by giving you full control of the synchronization process. It's designed to be safe by default without aggressively deleting/overwriting files.
 
-## Why "Zero Sum"?
+## Why Zero Sum?
 * **No terminal setups**: Open launcher and sync and manage your projects
 * **True two-way sync**: self explanatory, edit scripts and properties without script conflicts.
 * **Selective sync**: Choose what descendants to sync on notice, no more nuking your entire local workspace for pulling a repo
