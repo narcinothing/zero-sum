@@ -22,4 +22,4 @@ Zero Sum is an Rojo alternative that addresses lot of the problems and overhead 
 
 ## Credits:
 
-This wouldn't be possible without [Rojo]([https://github.com/Iron-Stag-Games/Lync](https://github.com/rojo-rbx/rojo)), [Lync](https://github.com/Iron-Stag-Games/Lync), [Argon](https://github.com/argon-rbx/argon) which this project was heavily modeled after + [rbx-dom](https://github.com/rojo-rbx/rbx-dom) which it's heavily built upon. This project was created with the help of AI with some minor tweaks of mine. This is meant to be a internal tool for myself and being shared publicly incase others techinical find it helpful.
+This wouldn't be possible without [Rojo](https://github.com/rojo-rbx/rojo), [Lync](https://github.com/Iron-Stag-Games/Lync), [Argon](https://github.com/argon-rbx/argon) which this project was heavily modeled after + [rbx-dom](https://github.com/rojo-rbx/rbx-dom) which it's heavily built upon. This project was created with the help of AI with some minor tweaks of mine. This is meant to be a internal tool for myself and being shared publicly incase others techinical find it helpful.
