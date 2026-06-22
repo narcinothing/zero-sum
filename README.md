@@ -13,6 +13,7 @@ Zero Sum is an Rojo alternative that addresses lot of the problems and overhead 
 * **Selective sync**: Choose what descendants to sync on notice, no more nuking your entire local workspace for pulling a repo
 * **Proper MeshPart support**: Reliable implementation of MeshPart serialization to be used for ingame assets and maps.
 * **Duplicate Instances**: Reliably distinguishes instances with the same name
+* **Properties**: Instances have fully editable properties regardless of the class
 
 ## Compatibility:
 * **Native luau-lsp support**: Creates and keeps track of the sourcemap.json for you without needing to rely on LSP Studio-side plugin.
